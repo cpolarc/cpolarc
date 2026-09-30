@@ -53,8 +53,12 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=cpolarc&show_icons=true&hide_title=true&hide_rank=false&locale=cn&theme=algolia" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpolarc&layout=compact&exclude_repo=CV&locale=cn&theme=algolia" alt="Top languages" />
+<img height="160" src="https://streak-stats.demolab.com?user=cpolarc&theme=algolia&locale=zh_Hans&hide_border=true&card_width=480" alt="GitHub Streak" />
+
+<br/><br/>
+
+[![Stars](https://img.shields.io/github/stars/cpolarc?style=flat-square&label=Stars&color=2f81f7)](https://github.com/cpolarc?tab=repositories)
+[![Last commit](https://img.shields.io/github/last-commit/cpolarc/cpolarc?style=flat-square&label=Last%20commit&color=2f81f7)](https://github.com/cpolarc/cpolarc/commits/main)
 
 </div>
 
